@@ -1,0 +1,6 @@
+$base-color: #e5840c;
+$base-color-mute: transparentize($base-color, 0.5);
+$base-color-light: lighten($base-color, 10%);
+$text-color-light: #5e5e5e;
+$error-color: #c01414;
+$success-color: #0c8a0c;
